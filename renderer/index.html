@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="Content-Security-Policy"
+    content="default-src 'self'; img-src 'self' https://images.openfoodfacts.org data:; style-src 'self' 'unsafe-inline'; script-src 'self';" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Épicerie Caisse</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="app">
+    <!-- Sidebar -->
+    <nav class="sidebar">
+      <div class="sidebar-logo">
+        <span class="logo-icon">🛒</span>
+        <span class="logo-text" id="shopName">Épicerie</span>
+      </div>
+      <ul class="nav-links">
+        <li><button class="nav-btn active" data-page="caisse">
+          <span class="nav-icon">💳</span><span data-t="nav.caisse">Caisse</span>
+        </button></li>
+        <li><button class="nav-btn" data-page="produits">
+          <span class="nav-icon">📦</span><span data-t="nav.produits">Produits</span>
+        </button></li>
+        <li><button class="nav-btn" data-page="ventes">
+          <span class="nav-icon">📊</span><span data-t="nav.ventes">Ventes</span>
+        </button></li>
+        <li><button class="nav-btn" data-page="parametres">
+          <span class="nav-icon">⚙️</span><span data-t="nav.parametres">Paramètres</span>
+        </button></li>
+      </ul>
+      <div class="sidebar-footer">
+        <div class="status-indicator">
+          <span class="status-dot" id="statusDot"></span>
+          <span id="statusText">En ligne</span>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Contenu principal -->
+    <main class="content" id="mainContent">
+      <div class="page-loading"><div class="spinner"></div></div>
+    </main>
+  </div>
+
+  <!-- Toast -->
+  <div id="toastContainer"></div>
+
+  <!-- Modal -->
+  <div id="modalOverlay" class="modal-overlay hidden">
+    <div class="modal">
+      <button class="modal-close" id="modalClose">✕</button>
+      <div id="modalContent"></div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
