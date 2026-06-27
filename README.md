@@ -86,6 +86,7 @@ epicerie-v2/
 
 > Recherche produit, panier en temps réel, paiement espèces ou carte, notification système à chaque vente.
 
+<img width="1897" height="1113" alt="image" src="https://github.com/user-attachments/assets/a1afcb79-f42c-4068-8e95-7c13e73b234f" />
 
 
 ![Page Caisse — Notification de vente](screenshots/notifCaisse.png)
