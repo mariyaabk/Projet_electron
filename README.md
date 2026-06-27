@@ -115,6 +115,7 @@ epicerie-v2/
 ## Preuve du packaging
 <img width="945" height="46" alt="image" src="https://github.com/user-attachments/assets/30afcd7e-136d-449f-9645-625cce5b380a" />
 <img width="595" height="238" alt="image" src="https://github.com/user-attachments/assets/93f98462-f211-443c-933e-58ecc333ca97" />
+<img width="945" height="515" alt="image" src="https://github.com/user-attachments/assets/bc5f4a07-ed57-40c6-968e-2f7777dcf4a3" />
 
 
 
