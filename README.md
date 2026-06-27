@@ -109,8 +109,9 @@ epicerie-v2/
 
 
 ### Page Paramètres
-![Paramètres](screenshots/parametres.png)
 > Langue FR/EN, thème sombre/clair, nom de la boutique — persistés en base.
+<img width="1210" height="634" alt="image" src="https://github.com/user-attachments/assets/cd7302ab-aea4-41ec-bfe4-3e540c2d9b37" />
+
 ## Preuve du packaging
 
 
