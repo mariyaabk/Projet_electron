@@ -97,6 +97,7 @@ epicerie-v2/
 > Catalogue complet, ajout avec lookup OpenFoodFacts par code-barres, modification, suppression.
 <img width="1903" height="595" alt="image" src="https://github.com/user-attachments/assets/8675edcc-418d-4982-9105-09b19a1a9b49" />
 <img width="838" height="691" alt="image" src="https://github.com/user-attachments/assets/30ce441e-29ed-405e-94e7-bc321b8cff53" />
+<img width="840" height="676" alt="image" src="https://github.com/user-attachments/assets/94759a12-f4c4-4e5a-9884-c3a648ad270b" />
 
 
 
