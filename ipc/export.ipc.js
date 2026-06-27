@@ -1,6 +1,4 @@
-/**
- * ipc/export.ipc.js
- */
+
 const exportService = require('../services/export');
 const db = require('../services/db');
 
