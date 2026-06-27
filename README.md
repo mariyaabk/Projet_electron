@@ -136,3 +136,5 @@ epicerie-v2/
 | Thème | Sombre / Clair, mémorisé entre les sessions |
 | Notifications | Notification OS native à chaque vente validée |
 | Installeur | .exe one-click Windows (electron-builder NSIS) |
+
+Conception : https://github.com/mariyaabk/Projet_electron/blob/main/Conception/CONCEPTION.md
