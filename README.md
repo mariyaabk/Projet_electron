@@ -94,8 +94,10 @@ epicerie-v2/
 
 
 ### Page Produits
-![Produits](screenshots/produits.png)
 > Catalogue complet, ajout avec lookup OpenFoodFacts par code-barres, modification, suppression.
+<img width="1903" height="595" alt="image" src="https://github.com/user-attachments/assets/8675edcc-418d-4982-9105-09b19a1a9b49" />
+
+
 
 ### Page Ventes
 ![Ventes](screenshots/ventes.png)
