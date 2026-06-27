@@ -16,7 +16,7 @@ Electron · SQLite · OpenFoodFacts · Bilingue FR/EN · Thème sombre/clair
 
 ```bash
 # 1. Dézipper et entrer dans le dossier
-cd epicerie-v2
+cd Projet_electron
 
 # 2. Installer les dépendances
 npm install
