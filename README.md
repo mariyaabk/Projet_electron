@@ -1,4 +1,4 @@
-# 🛒 Épicerie Caisse
+#Épicerie Caisse
 
 Logiciel de caisse desktop pour épicerie de quartier.  
 Electron · SQLite · OpenFoodFacts · Bilingue FR/EN · Thème sombre/clair
