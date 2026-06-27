@@ -104,8 +104,9 @@ epicerie-v2/
 
 
 ### Page Ventes
-![Ventes](screenshots/ventes.png)
 > Historique, résumé journalier (CA, panier moyen), export CSV et PDF, détail ticket par vente.
+<img width="1873" height="1051" alt="image" src="https://github.com/user-attachments/assets/6968901c-eb44-4ddd-8f7b-59ac42ab14de" />
+
 
 ### Page Paramètres
 ![Paramètres](screenshots/parametres.png)
