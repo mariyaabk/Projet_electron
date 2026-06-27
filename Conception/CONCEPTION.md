@@ -120,4 +120,4 @@ Génère un installeur `.exe` one-click pour Windows. L'utilisateur final double
 
 ## 6. Fonctionnement hors-ligne
 
-100% des fonctionnalités core (encaissement, catalogue, historique, export) fonctionnent sans internet. Seul le lookup OpenFoodFacts nécessite une connexion — avec un message explicite et un fallback vers la saisie manuelle. Un indicateur visuel (point vert/rouge) informe en temps réel dans la sidebar.
+100% des fonctionnalités core (encaissement, catalogue, historique, export) fonctionnent sans internet. Seul le lookup OpenFoodFacts nécessite une connexion, avec un message explicite et un fallback vers la saisie manuelle. Un indicateur visuel (point vert/rouge) informe en temps réel dans la sidebar.
