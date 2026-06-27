@@ -96,17 +96,27 @@ epicerie-v2/
 ### Page Produits
 > Catalogue complet, ajout avec lookup OpenFoodFacts par code-barres, modification, suppression.
 <img width="1903" height="595" alt="image" src="https://github.com/user-attachments/assets/8675edcc-418d-4982-9105-09b19a1a9b49" />
+<img width="838" height="691" alt="image" src="https://github.com/user-attachments/assets/30ce441e-29ed-405e-94e7-bc321b8cff53" />
+<img width="840" height="676" alt="image" src="https://github.com/user-attachments/assets/94759a12-f4c4-4e5a-9884-c3a648ad270b" />
+<img width="550" height="192" alt="image" src="https://github.com/user-attachments/assets/4ef2500f-766a-4f03-b615-b2ad90e8a45d" />
+
 
 
 
 ### Page Ventes
-![Ventes](screenshots/ventes.png)
 > Historique, résumé journalier (CA, panier moyen), export CSV et PDF, détail ticket par vente.
+<img width="1873" height="1051" alt="image" src="https://github.com/user-attachments/assets/6968901c-eb44-4ddd-8f7b-59ac42ab14de" />
+
 
 ### Page Paramètres
-![Paramètres](screenshots/parametres.png)
 > Langue FR/EN, thème sombre/clair, nom de la boutique — persistés en base.
+<img width="1210" height="634" alt="image" src="https://github.com/user-attachments/assets/cd7302ab-aea4-41ec-bfe4-3e540c2d9b37" />
+
 ## Preuve du packaging
+<img width="945" height="46" alt="image" src="https://github.com/user-attachments/assets/30afcd7e-136d-449f-9645-625cce5b380a" />
+<img width="595" height="238" alt="image" src="https://github.com/user-attachments/assets/93f98462-f211-443c-933e-58ecc333ca97" />
+<img width="945" height="515" alt="image" src="https://github.com/user-attachments/assets/bc5f4a07-ed57-40c6-968e-2f7777dcf4a3" />
+
 
 
 ---
