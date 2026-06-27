@@ -86,9 +86,12 @@ epicerie-v2/
 
 > Recherche produit, panier en temps réel, paiement espèces ou carte, notification système à chaque vente.
 
-![Page Caisse — Vue principale](screenshots/caisse1.png)
+<img width="1897" height="1113" alt="image" src="https://github.com/user-attachments/assets/a1afcb79-f42c-4068-8e95-7c13e73b234f" />
 
-![Page Caisse — Notification de vente](screenshots/notifCaisse.png)
+
+<img width="571" height="235" alt="image" src="https://github.com/user-attachments/assets/b9fb2646-f996-48f8-b8a2-543d392e4db9" />
+
+
 
 ### Page Produits
 ![Produits](screenshots/produits.png)
@@ -101,6 +104,8 @@ epicerie-v2/
 ### Page Paramètres
 ![Paramètres](screenshots/parametres.png)
 > Langue FR/EN, thème sombre/clair, nom de la boutique — persistés en base.
+## Preuve du packaging
+
 
 ---
 
